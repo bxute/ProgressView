@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProgressView">
+        <attr name="progress" format="integer" />
+        <attr name="shaderColor" format="color" />
+        <attr name="progressColor" format="color" />
+        <attr name="shaderWidth" format="dimension" />
+        <attr name="progressWidth" format="dimension" />
+        <attr name="progressTextSize" format="integer" />
+    </declare-styleable>
+    
+</resources>
